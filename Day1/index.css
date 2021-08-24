@@ -1,0 +1,15 @@
+.section1 {
+    background-color: aqua;
+    height: 100vh;
+    text-align: justify;
+}
+
+.section2 {
+    background-color: rgb(150, 150, 248);
+    height: 100vh;
+    text-align: justify;
+}
+
+h1 {
+    color: crimson;
+}
